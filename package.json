@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/web-dev-dave/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/web-dev-dave/react-boilerplate#readme"
+  "homepage": "https://github.com/web-dev-dave/react-boilerplate#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "img-loader": "^3.0.2",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.10.3",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^5.7.0"
+  }
 }
